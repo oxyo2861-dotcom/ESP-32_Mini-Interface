@@ -32,4 +32,5 @@ Built to experiment with embedded systems and ESP32 development.
 <h4>English</h4> This is a hobby project that I developed for fun. <br> The code is not fully optimized yet, but it runs quite well on the ESP32 hardware. <br> I will most likely finish the project after adding around 10 more applications. <br> A circuit diagram is not available at the moment.
 </p>
 <h1>This Project Still in Developement</h1>
+<h6>This project Uses my Own Readme there Will be some major issue</h6>
     
