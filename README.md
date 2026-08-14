@@ -16,8 +16,7 @@ Built to experiment with embedded systems and ESP32 development.
 <li>The WebServer Libary</li>
 </ul>
 <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" width="100" alt="Image Gen Error"
-<br>
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvplfz1CRJ3bVKAWHMXToG6wzBTM-ayTyAoXlz1lr-Uw&s=10" width="100" alt="Image Gen Error"
+<img align="middle" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvplfz1CRJ3bVKAWHMXToG6wzBTM-ayTyAoXlz1lr-Uw&s=10" width="100" alt="Image Gen Error"
 <br>
 <h1> The Hardware</h1>
 <ul> 
