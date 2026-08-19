@@ -10,7 +10,7 @@ Built to experiment with embedded systems and ESP32 development.
 <li>Arduino Integrated Development Environment</li>
 <li>TFT_eSPI Libary </li>
 <li>The Esp32's own BLE Libary</li>
-<li>>The Esp32's own Wi-Fi Libary</li>
+<li>The Esp32's own Wi-Fi Libary</li>
 <li>The FS Libary</li>
 <li>The littleFS libary</li>
 <li>The WebServer Libary</li>
