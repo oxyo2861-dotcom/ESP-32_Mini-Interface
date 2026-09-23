@@ -30,5 +30,4 @@ Built to experiment with embedded systems and ESP32 development.
 <h4>Türkçe</h4> Hobi amaçlı geliştirdiğim bir projedir. <br> Kod şu anda tam olarak optimize edilmiş değil, ancak ESP32 donanımı üzerinde gayet iyi çalışıyor. <br> Büyük ihtimalle yaklaşık 10 uygulama daha ekleyerek projeyi tamamlamayı düşünüyorum. <br> Devre şeması şu an için mevcut değil.
 <h4>English</h4> This is a hobby project that I developed for fun. <br> The code is not fully optimized yet, but it runs quite well on the ESP32 hardware. <br> I will most likely finish the project after adding around 10 more applications. <br> A circuit diagram is not available at the moment.
 </p>
-<h1>This Project Still in Developement</h1>
     
